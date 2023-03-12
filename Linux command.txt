@@ -1,0 +1,32 @@
+ctrl+shifl+c: to copy
+
+
+<commands> file_name.<extension>
+
+touch : to create any file
+
+nano : To open files in terminal
+
+gedit : to open file in editer
+
+mkdir <name> :create folders
+
+ls : to check diles in current folders
+
+cd  <folder name> : to open folder inside in curret flolder 
+
+cd ../ : to go back/privious folder.
+
+ls -l : to check details of a files
+
+ chmod 777 <filename> : to change permission 
+
+777 : full permission 
+
+700 : for on user permission.
+
+pwd :(present working directory)
+
+mv (privious path) (next path) :move files to other
+
+cat <filename> : to check contant of file
