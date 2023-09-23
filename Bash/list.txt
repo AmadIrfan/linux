@@ -1,0 +1,5 @@
+.
+..
+list.txt
+one.sh
+two.txt
