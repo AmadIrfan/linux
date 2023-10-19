@@ -22,11 +22,21 @@
 # taking input from terminal
 # echo "Hello $0 $1"
 
-echo "Enter your name : "
-read myName
-echo "Your Name is $myName"
+# echo "Your Name is $myName"
 
-if [[ $the_name=="amad" ]];
-then
-    echo "amadIRfan"
-fi
+# if [[ $myName == "amad" ]];
+# then
+#     echo "amad Irfan"
+# else
+#     echo "its else"
+#     echo "$myName"
+# fi
+
+# read -p "Enter a number: " num
+
+# if (( num > 0 ))
+# then
+#     echo "The number is positive."
+# else
+#     echo "The number is negative."
+# fi
